@@ -1,0 +1,37 @@
+.myBG {
+  background: url("../assets/img/wkwkwk2.PNG");
+  background-size: cover;
+  height: 100vh;
+}
+
+.intro {
+  height: 370px;
+  display: flex;
+  justify-content: center;
+  align-items: end;
+}
+
+.title {
+  color: aliceblue;
+  font-size: 3rem;
+  text-shadow: 3px 2px black;
+  letter-spacing: 0.1px;
+}
+
+.trending {
+  background: url("../assets/img/Mizuhara.png");
+  background-size: cover;
+  height: auto;
+}
+
+.movieImage {
+  height: auto;
+  padding: 8px;
+}
+
+.images {
+  height: 500px;
+}
+
+/* .movieWrapper {
+} */
